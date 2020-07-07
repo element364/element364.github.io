@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.resolvepay.com/sitemap.xml
+Host: https://www.resolvepay.com

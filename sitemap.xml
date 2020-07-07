@@ -42,6 +42,8 @@
 <url> <loc>https://www.resolvepay.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.resolvepay.com/ach-return-codes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.resolvepay.com/buyers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.resolvepay.com/contact-sales/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.resolvepay.com/features-lp-example/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.resolvepay.com/grow-sales/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.resolvepay.com/how-it-works/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.resolvepay.com/improve-cashflow/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -50,4 +52,6 @@
 <url> <loc>https://www.resolvepay.com/optimize-accounts-receivable/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.resolvepay.com/privacy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.resolvepay.com/sellers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.resolvepay.com/terms/advance/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.resolvepay.com/terms/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
